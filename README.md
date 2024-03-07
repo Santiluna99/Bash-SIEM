@@ -124,6 +124,7 @@ $ sudo ufw status
 
 # Instalar mailutils
 ## Referencia: https://www.youtube.com/watch?v=iBgNohv2oJM
+https://installati.one/install-mailutils-common-kalilinux/?expand_article=1
 
 ### 1 
 sudo apt install mailutils -y
