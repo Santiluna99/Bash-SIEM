@@ -38,3 +38,5 @@ timedatectl
 
 ### 4 Ejecutar
 sudo service rsyslog restart
+
+# Asignar permisos y dejar ejecutando
