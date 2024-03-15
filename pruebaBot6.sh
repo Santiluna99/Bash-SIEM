@@ -10,10 +10,10 @@ LAST_LINE_FILE="/tmp/last_line.txt"
 PATTERN="incorrect password\|authentication failure"
 
 # Token del bot de Telegram
-TOKEN="7153902856:AAFuyErx3lMEswAmLBBIBbWXIZjHN2-MTEU"
+TOKEN="tu_token"
 
 # ID del chat de Telegram al que se enviará el mensaje
-CHAT_ID="-4173191777"
+CHAT_ID="tu_token"
 
 # Función para enviar mensaje de alerta a Telegram
 send_alert() {
