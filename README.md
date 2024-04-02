@@ -31,7 +31,7 @@ https://api.telegram.org/bot/getUpdates
 timedatectl list-timezones
 
 ### 2
-set-timezone America/Argentina/San_Juan (Reemplazar por el suyo)
+timedatectl set-timezone America/Argentina/San_Juan (Reemplazar por el suyo)
 
 ### 3 Verificar si se configuro
 timedatectl
